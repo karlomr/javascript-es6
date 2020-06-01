@@ -5,7 +5,7 @@
 
 - Uso do yarn para instalar pacotes;
 - Babel para manter compatibilidade com Browser e versões anteriores ES;
-- Webpack para empacotar módulos em ambiente de produção e desenvolvimento  e controlar dependências;
+- Webpack para empacotar módulos em ambiente de produção/desenvolvimento  e controlar dependências;
 - Arrow Functions;
 - Async e await;
 
